@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "oned",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2ba427d9-3123-41e0-9773-b5ca26a1b994",
+      "database_name": "one-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
